@@ -8,6 +8,7 @@ const App = () => {
     <div>
       <Navigation />
       <Main />
+      <h1>こんにちは</h1>
     </div>
   );
 };
