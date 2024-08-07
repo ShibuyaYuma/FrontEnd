@@ -1,0 +1,14 @@
+.main{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.mainText{
+    width: 50%;
+    height: 736px;
+}
+
+.mainImg{
+    height: 736px;
+}
